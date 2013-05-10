@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 请给它五分钟的时间
-date: 2012-05-23 17:33
+date: 2013-05-09 17:33
 ---
 这是一篇很久前在 37 Signal 日志 SVN（Signal v.s. Noise ）读到的文章，作者是 37 Signal 的 Jason F.。很有启发的一个故事，与大家分享。
 
